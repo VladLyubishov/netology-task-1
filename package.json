@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VladLyubishov/netology-tast-1.git"
+    "url": "git+https://github.com/VladLyubishov/netology-task-1.git"
   },
   "keywords": [
     "game"
@@ -17,9 +17,9 @@
   "author": "Vlad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VladLyubishov/netology-tast-1/issues"
+    "url": "https://github.com/VladLyubishov/netology-task-1/issues"
   },
-  "homepage": "https://github.com/VladLyubishov/netology-tast-1#readme",
+  "homepage": "https://github.com/VladLyubishov/netology-task-1#readme",
   "devDependencies": {
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
