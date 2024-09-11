@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "babel src -d dist",
-    "lint": "eslint .",
+    "serve": "http-server src",
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -29,6 +29,7 @@
     "@eslint/js": "^9.10.0",
     "core-js": "^3.38.1",
     "eslint": "^9.10.0",
-    "globals": "^15.9.0"
+    "globals": "^15.9.0",
+    "http-server": "^14.1.1"
   }
 }
